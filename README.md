@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at ESI 
 ### 🌱 Currently Learning
 
 <div align="center" style="display:flex;justify-content:center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,flutter,django&theme=dark,pytorch" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,flutter,django&theme=dark,skitlearn" alt="Currently Learning" />
 </div>
 
 ---
