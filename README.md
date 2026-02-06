@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at ESI 
 
 ## 🚀 About Me
 
-- 🎓 I'm an intermediate Full-stack developer
-- 🌱 Currently exploring different Front-end , Back-end frameworks  
+- 🎓 I'm an intermediate Full-stack developer.
+- 🌱 Currently exploring different Front-end/Back-end frameworks, Mobile Development using Flutter, and ML/DL using PyTorch.
 
 <br clear="both">
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at ESI 
 ### 🌱 Currently Learning
 
 <div align="center" style="display:flex;justify-content:center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,flutter,django&theme=dark,skitlearn" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,flutter,django,pytorch&theme=dark" alt="Currently Learning" />
 </div>
 
 ---
@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at ESI 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oussama-ad&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff&icon_color=8b949e"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-ad&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Oussama-ad&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff&icon_color=8b949e"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-ad&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff"/>
 </div>
 
 <div align="center">
