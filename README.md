@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at ESI 
 ## 🚀 About Me
 
 - 🎓 I'm an intermediate Full-stack developer
-- 🌱 Currently exploring different Front-end and Back-end frameworks 
+- 🌱 Currently exploring different Front-end , Back-end frameworks  
 
 <br clear="both">
 
@@ -20,13 +20,13 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at ESI 
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,git,java,html,css,bootstrap,tailwind,js,python,dart,react,express,mysql,mongodb,fastapi,vscode,figma,linux&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,git,bootstrap,tailwind,java,js,python,dart,react,express,mysql,mongodb,fastapi,figma,linux&theme=dark" alt="Tech Stack" />
 </div>
 
 ### 🌱 Currently Learning
 
 <div align="center" style="display:flex;justify-content:center">
-  <img src="https://skillicons.dev/icons?i=tailwind,ts,nextjs,flutter,django&theme=dark" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,flutter,django&theme=dark,pytorch" alt="Currently Learning" />
 </div>
 
 ---
